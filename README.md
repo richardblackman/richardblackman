@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richardblackman
 - 👀 I’m interested in things
-- 🌱 I’m currently learning liquibase and spring boot 
+- 🌱 I’m currently learning liquibase, spring boot and Japanese
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ... just dm here.
 
