@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richardblackman
-- 👀 I’m interested in the internet
-- 🌱 I’m currently learning drools, typescript and cpp 
-- 💞️ I’m looking to collaborate on smalltalk like dynamic environments for electron, clojure andor typescript
+- 👀 I’m interested in things
+- 🌱 I’m currently learning liquibase and spring boot 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ... just dm here.
 
 <!---
