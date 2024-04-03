@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @richardblackman
-- 👀 I’m interested in things
-- 🌱 I’m currently learning liquibase, spring boot and Japanese
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ... just dm here.
 
 <!---
 richardblackman/richardblackman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
